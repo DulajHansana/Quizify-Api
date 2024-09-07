@@ -1,6 +1,7 @@
 <h1>Back End For Quzify App</h1>
 
-<p>Used </p>
+<h3>Tech Stack</h3>
+<p>Node.js</p>
 
 ## Contributing
 
